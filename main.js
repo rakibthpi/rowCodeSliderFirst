@@ -18,4 +18,4 @@ setInterval(() => {
     includeImages.setAttribute('src', imagesUrl);
     console.log(imagesUrl);
     indexOF++;
-}, 1000);
+}, 7000);
